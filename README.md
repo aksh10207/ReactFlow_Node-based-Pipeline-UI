@@ -1,4 +1,4 @@
-React Flow Node-based UI with FastAPI Backend
+### React Flow Node-based UI with FastAPI Backend
 
 React Flow Node-based UI with FastAPI Backend
 =============================================
@@ -32,7 +32,7 @@ Installation
 
 Clone the repository:
 
-    git clone https://github.com/aditya2131/Node-based_UI_Pipeline.git
+    git clone https://github.com/aditya2131/ReactFlow_Node-based-Pipeline-UI.git
 
 Navigate to the project directory:
 
@@ -157,8 +157,8 @@ Developer Info
 
 Aditya Mishra
 
-*   GitHub: [github.com/adityamishra7](https://github.com/aditya2131)
-*   LinkedIn: [linkedin.com/in/aditya-mishra-7](https://linkedin.com/in/aditya-mishra-6k)
+*   GitHub: [github.com/adityamishra2131](https://github.com/aditya2131)
+*   LinkedIn: [linkedin.com/in/aditya-mishra-6k](https://linkedin.com/in/aditya-mishra-6k)
 
 License
 -------
