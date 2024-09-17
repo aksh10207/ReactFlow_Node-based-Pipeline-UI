@@ -1,6 +1,6 @@
-### React Flow Node-based UI with FastAPI Backend
+### React Flow Node-based Pipeline UI with FastAPI Backend
 
-React Flow Node-based UI with FastAPI Backend
+React Flow Node-based Pipeline UI with FastAPI Backend
 =============================================
 
 This project is a drag-and-drop pipeline UI built using React, ReactFlow, and Zustand for state management on the frontend, integrated with a FastAPI backend. The UI allows users to create customizable pipeline flows by using node-based interfaces such as inputs, LLM nodes, and outputs.
