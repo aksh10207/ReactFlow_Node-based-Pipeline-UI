@@ -155,11 +155,11 @@ Feel free to reach out for discussions or suggestions.
 Developer Info
 --------------
 
-Aditya Mishra
+# Aditya Mishra
 
 *   GitHub: [github.com/adityamishra2131](https://github.com/aditya2131)
 *   LinkedIn: [linkedin.com/in/aditya-mishra-6k](https://linkedin.com/in/aditya-mishra-6k)
-   Akshay Srivastava
+  # Akshay Srivastava
 
 *   GitHub: [github.com/aksh10207](https://github.com/aksh10207)
 *   LinkedIn: [linkedin.com/in/akshay-07ak](https://linkedin.com/in/akshay-07ak)
